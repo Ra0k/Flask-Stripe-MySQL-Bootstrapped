@@ -17,7 +17,7 @@ This template is ready for scaling and is easy to deploy.
 - [x] Notifications for users (upselling, credit card expiring soon, etc.)
 - [ ] Feedback button: Easily gather feedback from users
 - [ ] Email validation
-- [ ] Multiprocessing with Gunicorn, for SQLAlchemy and MySQL
+- [ ] Multiprocessing with Gunicorn, for SQLAlchemy and PostgreSQL
 - [ ] Admin account: View feedback, logs, errors, etc.
 
 ## Future Work
