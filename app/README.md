@@ -1,4 +1,4 @@
-# Flask Stripe MySQL Bootstrapped
+# Flask Stripe PostgreSQL Bootstrapped
 Here is an overview of the folders. Everything in this template is contained in the current folder /app.
 
 ![System Overview](../demo/complex-system-overview.png)
